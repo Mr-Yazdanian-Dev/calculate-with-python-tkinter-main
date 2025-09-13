@@ -369,5 +369,6 @@ class Calculator:
         self.button_clear.config(bg="#F18F01",fg="#000000")
     def funcc1(self,event):
         self.button_clear.config(bg="#f0f0f0",fg="#000000")
-#-----------------------------------------------------------
+
+#----------------------------------------------------------- running
 cal=Calculator()
